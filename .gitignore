@@ -18,3 +18,7 @@ nytprof.out
 *.o
 *.bs
 /_eumm/
+.idea
+__pycache__
+*.pyc
+venv
